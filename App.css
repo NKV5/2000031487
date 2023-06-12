@@ -1,0 +1,40 @@
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.train-item {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.train-item h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.train-item p {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+.train-item ul {
+  margin-bottom: 10px;
+}
+
+.train-item li {
+  margin-bottom: 5px;
+}
+
+.link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.link:hover {
+  text-decoration: underline;
+}
